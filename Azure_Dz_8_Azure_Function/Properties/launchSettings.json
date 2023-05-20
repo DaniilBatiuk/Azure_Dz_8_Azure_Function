@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Azure_Dz_8_Azure_Function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7277",
+      "launchBrowser": false
+    }
+  }
+}
